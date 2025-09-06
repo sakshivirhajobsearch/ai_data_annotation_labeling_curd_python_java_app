@@ -1,12 +1,12 @@
-package ai.data.annotation.labeling.service;
+package com.ai.data.annotation.labeling.service;
 
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import ai.data.annotation.labeling.model.DataItem;
-import ai.data.annotation.labeling.repository.DataRepository;
+import com.ai.data.annotation.labeling.model.DataItem;
+import com.ai.data.annotation.labeling.repository.DataRepository;
 
 @Service
 public class DataService {

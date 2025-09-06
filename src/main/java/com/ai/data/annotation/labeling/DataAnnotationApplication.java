@@ -1,4 +1,4 @@
-package ai.data.annotation.labeling;
+package com.ai.data.annotation.labeling;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

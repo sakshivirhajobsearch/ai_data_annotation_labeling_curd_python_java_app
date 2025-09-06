@@ -1,4 +1,4 @@
-package ai.data.annotation.labeling.model;
+package com.ai.data.annotation.labeling.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

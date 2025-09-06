@@ -1,4 +1,4 @@
-package ai.data.annotation.labeling.controller;
+package com.ai.data.annotation.labeling.controller;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import ai.data.annotation.labeling.model.DataItem;
-import ai.data.annotation.labeling.service.DataService;
+import com.ai.data.annotation.labeling.model.DataItem;
+import com.ai.data.annotation.labeling.service.DataService;
 
 @RestController
 @RequestMapping("/api/data")
